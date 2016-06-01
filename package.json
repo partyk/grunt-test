@@ -1,0 +1,13 @@
+{
+  "name": "grunt1",
+  "version": "1.0.0",
+  "description": "test grunt1",
+  "main": "index.html",
+  "author": "Bohdan Partyk",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
